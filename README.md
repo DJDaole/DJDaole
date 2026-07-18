@@ -1,6 +1,6 @@
-- 👋 I am @DJDaole a Canadian based in Taiwan
+- 👋 I am @DJDaole a Canadian based in Canada (former resident of Taiwan, California, England)
 - 👀 I’m interested in data science, machine learing, AI and potential intersections with electronic music composition
-- 🌱 I’m currently learning Python and taking CS50
+- 🌱 I’m currently learning the Claude suite
 - 📫 graham@mansfield-consulting.com
 
 <!---
